@@ -1,10 +1,8 @@
-## Hi 👋
+## Hi there! 👋 
 
-**FarisKarkelja/FarisKarkelja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student at International Burch University, passionate about bringing ideas to life through innovative solutions. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- 🔭 **I'm currently working on:** Freelance web development projects and an accessibility-focused EdTech solution for my bachelor's thesis. 
+- 🌱 **I'm currently learning:** Advanced practices for building highly secure, scalable full-stack and mobile applications.
+- 🤝 **I'm looking to collaborate on:** Innovative app ideas, open-source projects, and new freelance web development gigs. 
+- 📫 **How to reach me:** [faris.karkelja1803@gmail.com] | [https://www.linkedin.com/in/fariskarkelja/]
