@@ -67,12 +67,22 @@ I'm an Software Engineering track **Master's student** at International Burch Un
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FarisKarkelja&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisKarkelja&layout=compact&hide_border=true" />
+  <a href="https://github.com/FarisKarkelja">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=FarisKarkelja&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=2E86DE&icon_color=2E86DE" alt="Faris's GitHub Stats" />
+  </a>
+  <a href="https://github.com/FarisKarkelja">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisKarkelja&layout=compact&theme=transparent&hide_border=true&title_color=2E86DE" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarisKarkelja&hide_border=true" />
+  <a href="https://github.com/FarisKarkelja">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarisKarkelja&theme=transparent&hide_border=true&title_color=2E86DE&icon_color=2E86DE&ring=2E86DE&fire=2E86DE" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FarisKarkelja&label=Profile%20Views&color=2E86DE&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
