@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Freelance Web Developer · SE Master's Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86DE&center=true&vCenter=true&width=560&lines=Building+full-stack+web+%26+mobile+apps;Freelance+web+developer+for+BiH+businesses;Currently%3A+IT%2FSE+track+Master's+student+%40+IBU;Open+for+freelance+work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86DE&center=true&vCenter=true&width=560&lines=Building+full-stack+web+applications;Freelance+web+developer+for+European+businesses;Currently%3A+IT%2FSE+track+Master's+student+%40+IBU;Open+for+freelance+work+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
