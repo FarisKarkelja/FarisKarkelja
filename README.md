@@ -18,7 +18,7 @@
 
 I'm an Software Engineering track **Master's student** at International Burch University in Sarajevo, and a freelance web developer building sites and systems for businesses across Europe.
 
-- 🔭 **Currently working on:** Freelance web development projects and wrapping up deliverables for my bachelor's thesis, **TTStudy** - an accessibility-focused text-to-speech study aid for visually impaired students.
+- 🔭 **Currently working on:** Freelance web development projects and innovative ideas.
 - 🌱 **Currently learning:** Advanced practices for building secure, scalable full-stack and mobile applications.
 - 🤝 **Looking to collaborate on:** Innovative app ideas, open-source projects, and freelance web development work.
 - 💼 **Freelance:** Currently taking on new web development projects - see [Hire Me](#-lets-work-together) below.
@@ -56,11 +56,11 @@ I'm an Software Engineering track **Master's student** at International Burch Un
 | Project | Description | Stack |
 |---|---|---|
 | 💊 [**IBO & CO**](https://apotekaiboco.ba/#home) | Official pharmacy web application - freelance client project | HTML, CSS, JS, Bootstrap |
-| 🎙️ [**TTStudy**](https://ttstudy.app) | Text-to-speech study aid for visually impaired students — bachelor's thesis project | FastAPI, Google Cloud TTS, MySQL |
+| 🎙️ [**TTStudy**](https://ttstudy.app) | Text-to-speech study aid for visually impaired students - bachelor's thesis project | FastAPI, Google Cloud TTS, MySQL |
 | 🍽️ **Serviqo** | Full-stack restaurant table ordering & management system with live analytics | PHP (Flight), Vite, MySQL |
 | 🍔 **Gric** | Native Android app for restaurant & recipe discovery | Kotlin, Jetpack Compose, Hilt, Firebase |
-| 🚗 [**Autopflege Rottweil**](https://autopflegerottweil.de/) | Car detailing service website — freelance client project | HTML, CSS, JS, Bootstrap |
-| 🧹 [**COLAK Hausmeister**](https://hausmeistercolak.de/) | Facility management service website — freelance client project | HTML, CSS, JS, Bootstrap |
+| 🚗 [**Autopflege Rottweil**](https://autopflegerottweil.de/) | Car detailing service website - freelance client project | HTML, CSS, JS, Bootstrap |
+| 🧹 [**COLAK Hausmeister**](https://hausmeistercolak.de/) | Facility management service website - freelance client project | HTML, CSS, JS, Bootstrap |
 
 ---
 
