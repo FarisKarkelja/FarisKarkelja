@@ -14,19 +14,19 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm an Software Engineering track **Master's student** at International Burch University in Sarajevo, and a freelance web developer building sites and systems for businesses across the World.
 
-- 🔭 **Currently working on:** Freelance web development projects and innovative ideas.
-- 🌱 **Currently learning:** Advanced practices for building secure, scalable full-stack and mobile applications.
-- 🤝 **Looking to collaborate on:** Innovative app ideas, open-source projects, and freelance web development work.
-- 💼 **Freelance:** Currently taking on new web development projects - see [Hire Me](#-lets-work-together) below.
-- 📫 **Reach me:** [faris.karkelja1803@gmail.com](mailto:faris.karkelja1803@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fariskarkelja/) · [Portfolio](https://fariskarkelja.github.io)
+- **Currently working on:** Freelance web development projects and innovative ideas.
+- **Currently learning:** Advanced practices for building secure, scalable full-stack and mobile applications.
+- **Looking to collaborate on:** Innovative app ideas, open-source projects, and freelance web development work.
+- **Freelance:** Currently taking on new web development projects - see [Hire Me](#-lets-work-together) below.
+- **Reach me:** [faris.karkelja1803@gmail.com](mailto:faris.karkelja1803@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fariskarkelja/) · [Portfolio](https://fariskarkelja.github.io)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Core**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -51,27 +51,27 @@ I'm an Software Engineering track **Master's student** at International Burch Un
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 💊 [**IBO & CO**](https://apotekaiboco.ba/#home) | Official pharmacy web application - freelance client project | HTML, CSS, JS, Bootstrap |
-| 🎙️ **TTStudy** | Text-to-speech study aid for visually impaired students - bachelor's thesis project | FastAPI, Google Cloud TTS, MySQL |
-| 🍽️ **Serviqo** | Full-stack restaurant table ordering & management system with live analytics | PHP (Flight), Vite, MySQL |
-| 🍔 **Gric** | Native Android app for restaurant & recipe discovery | Kotlin, Jetpack Compose, Hilt, Firebase |
-| 🚗 [**Autopflege Rottweil**](https://autopflegerottweil.de/) | Car detailing service website - freelance client project | HTML, CSS, JS, Bootstrap |
-| 🧹 [**COLAK Hausmeister**](https://hausmeistercolak.de/) | Facility management service website - freelance client project | HTML, CSS, JS, Bootstrap |
+| [**IBO & CO**](https://apotekaiboco.ba/#home) | Official pharmacy web application - freelance client project | HTML, CSS, JS, Bootstrap |
+| **TTStudy** | Text-to-speech study aid for visually impaired students - bachelor's thesis project | FastAPI, Google Cloud TTS, MySQL |
+| **Serviqo** | Full-stack restaurant table ordering & management system with live analytics | PHP (Flight), Vite, MySQL |
+| **Gric** | Native Android app for restaurant & recipe discovery | Kotlin, Jetpack Compose, Hilt, Firebase |
+| [**Autopflege Rottweil**](https://autopflegerottweil.de/) | Car detailing service website - freelance client project | HTML, CSS, JS, Bootstrap |
+| [**COLAK Hausmeister**](https://hausmeistercolak.de/) | Facility management service website - freelance client project | HTML, CSS, JS, Bootstrap |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/FarisKarkelja">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=FarisKarkelja&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Faris's GitHub Stats" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=FarisKarkelja&show_icons=true&count_private=true&theme=default&hide_border=true" alt="Faris's GitHub Stats" />
   </a>
   <a href="https://github.com/FarisKarkelja">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisKarkelja&layout=compact&hide_border=true" alt="Top Languages" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FarisKarkelja&layout=compact&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -87,7 +87,7 @@ I'm an Software Engineering track **Master's student** at International Burch Un
 
 ---
 
-### 💼 Let's Work Together
+### Let's Work Together
 
 I'm currently **open for new freelance web development projects** - business websites and full-stack web apps. If you have a project in mind, reach out:
 
@@ -97,4 +97,4 @@ I'm currently **open for new freelance web development projects** - business web
 
 ---
 
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repos.</i></p>
+<p align="center"><i>Thanks for stopping by!</i></p>
