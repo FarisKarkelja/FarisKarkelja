@@ -56,7 +56,7 @@ I'm an Software Engineering track **Master's student** at International Burch Un
 | Project | Description | Stack |
 |---|---|---|
 | 💊 [**IBO & CO**](https://apotekaiboco.ba/#home) | Official pharmacy web application - freelance client project | HTML, CSS, JS, Bootstrap |
-| 🎙️ [**TTStudy**](https://ttstudy.app) | Text-to-speech study aid for visually impaired students - bachelor's thesis project | FastAPI, Google Cloud TTS, MySQL |
+| 🎙️ **TTStudy** | Text-to-speech study aid for visually impaired students - bachelor's thesis project | FastAPI, Google Cloud TTS, MySQL |
 | 🍽️ **Serviqo** | Full-stack restaurant table ordering & management system with live analytics | PHP (Flight), Vite, MySQL |
 | 🍔 **Gric** | Native Android app for restaurant & recipe discovery | Kotlin, Jetpack Compose, Hilt, Firebase |
 | 🚗 [**Autopflege Rottweil**](https://autopflegerottweil.de/) | Car detailing service website - freelance client project | HTML, CSS, JS, Bootstrap |
