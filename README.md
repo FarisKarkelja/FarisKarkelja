@@ -41,7 +41,7 @@ looking_for: Freelance projects, internships, junior/entry-level SWE roles
 fun_fact: I also teach & compete in modern dance internationally 💃
 ```
 
-I'm a computer science student who genuinely likes turning ideas into shipped, working products — from a pharmacy's ordering system to a text-to-speech app for visually impaired students. I care about accessibility, clean UX, and code that actually goes to production, not just a grade.
+I'm a computer science student who genuinely likes turning ideas into shipped, working products - from a pharmacy's ordering system to a text-to-speech app for visually impaired students. I care about accessibility, clean UX, and code that actually goes to production, not just a grade.
 
 <br/>
 
@@ -82,7 +82,7 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 <tr>
 <td width="50%">
 
-### 🎧 TTStudy — Graduation Thesis
+### 🎧 TTStudy - Graduation Thesis
 
 Accessible PDF-to-speech web app for visually impaired students. Adjustable reading speed, bookmarking, section navigation.
 `FastAPI` `Python` `Google Cloud TTS` `MySQL`
@@ -91,7 +91,7 @@ Accessible PDF-to-speech web app for visually impaired students. Adjustable read
 </td>
 <td width="50%">
 
-### 💊 IBO & CO — Pharmacy System
+### 💊 IBO & CO - Pharmacy System
 
 Full-stack web app built and deployed for a real pharmacy in Sarajevo, with secure login/registration and automated ordering.
 `PHP` `MySQL` `JavaScript`
@@ -111,7 +111,7 @@ Multilingual vacation rental site (EN/BS/DE) with a custom language switcher, gu
 
 ### 🔐 Secure Login & Registration System
 
-Independently built a hardened auth backend from scratch — hashing, validation, session handling.
+Independently built a hardened auth backend from scratch - hashing, validation, session handling.
 `Node.js` `TypeScript` `Express.js` `MySQL`
 
 </td>
@@ -119,7 +119,7 @@ Independently built a hardened auth backend from scratch — hashing, validation
 <tr>
 <td width="50%">
 
-### 🍽️ Serviqo — Restaurant System
+### 🍽️ Serviqo - Restaurant System
 
 Co-developed full SDLC for a restaurant platform: QR ordering, reservations, and a "call the waiter" feature.
 `Full SDLC` `Team Project`
@@ -127,7 +127,7 @@ Co-developed full SDLC for a restaurant platform: QR ordering, reservations, and
 </td>
 <td width="50%">
 
-### 🍕 Gric — Mobile Recommendation App
+### 🍕 Gric - Mobile Recommendation App
 
 Native Android app with a dynamic restaurant recommendation engine based on user ratings.
 `Kotlin` `Jetpack Compose`
@@ -147,7 +147,7 @@ Designed and tested a fully operational 32-bit RISC-V CPU with a working instruc
 
 ### 💻 ForkBomb 2.0
 
-Custom Linux shell built in C — process management, system calls (`clone`, `execle`), I/O redirection with `dup`.
+Custom Linux shell built in C - process management, system calls (`clone`, `execle`), I/O redirection with `dup`.
 `C` `Linux` `Ubuntu`
 
 </td>
@@ -173,7 +173,7 @@ Independently built and deployed a responsive business site for a car detailing 
 </table>
 
 <div align="center">
-  <sub>...plus 15+ more academic and independent projects — check my pinned repos below 👇</sub>
+  <sub>...plus 15+ more academic and independent projects - check my pinned repos below 👇</sub>
 </div>
 
 <br/>
