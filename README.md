@@ -192,12 +192,7 @@ Independently built and deployed a responsive business site for a car detailing 
 
 Got a project, a role, or just a wild idea? I'd love to hear about it.
 
-<a href="mailto:faris.karkelja1803@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Hire_Me-14b8a6?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/fariskarkelja/">
-  <img src="https://img.shields.io/badge/💬_Get_In_Touch-0A66C2?style=for-the-badge&logoColor=white" />
-</a>
+<a href="mailto:faris.karkelja1803@gmail.com"><img src="https://img.shields.io/badge/📩_Hire_Me-14b8a6?style=for-the-badge&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/fariskarkelja/"><img src="https://img.shields.io/badge/💬_Get_In_Touch-0A66C2?style=for-the-badge&logoColor=white" /></a>
 
 </div>
 
