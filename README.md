@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=220&section=header&text=Hi!%20I'm%20Faris%20Karkelja&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20IBU%20Sarajevo&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=650&lines=Software+Engineering+MSc+Student+%40+IBU;Full-Stack+Web+Developer;Building+accessible%2C+real-world+products;Freelancer+%7C+8%2B+client+websites+shipped;Currently+exploring+RISC-V+%26+AI;Always+down+to+build+something+cool" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=650&lines=Software+Engineering+MSc+Student+%40+IBU;Full-Stack+Web+Developer;Building+accessible%2C+real-world+products;Several+client+websites+shipped;Always+down+to+build+something+cool" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,11 +34,11 @@
 name: Faris Karkelja
 location: Sarajevo, Bosnia and Herzegovina
 currently: MSc Software Engineering student @ International Burch University
-previously: BSc Information Technology @ IBU (graduated) + Erasmus+ exchange @ Mälardalen University, Sweden
+previously: BSc Information Technology @ IBU and Erasmus+ exchange @ Mälardalen University, Sweden
 focus: Full-stack web development, accessibility-first products, secure backend systems
-freelance: Building websites & web apps for real clients across Bosnia and Herzegovina
+freelance: Building websites & web apps for real clients remotely from Bosnia and Herzegovina
 looking_for: Freelance projects, internships, junior/entry-level SWE roles
-fun_fact: I also teach & compete in modern dance internationally 💃
+fun_fact: I also teach & compete in modern dance internationally 
 ```
 
 I'm a computer science student who genuinely likes turning ideas into shipped, working products - from a pharmacy's ordering system to a text-to-speech app for visually impaired students. I care about accessibility, clean UX, and code that actually goes to production, not just a grade.
