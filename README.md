@@ -28,7 +28,7 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
 ```yaml
 name: Faris Karkelja
@@ -45,7 +45,7 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 
 <br/>
 
-## 🛠️ Tech I Work With
+## Tech I Work With
 
 <div align="center">
 
@@ -67,26 +67,26 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 
 </div>
 
-**🗣️ Languages I speak:** Bosnian / Croatian / Serbian (Native) · English (B1) · German (B2) · Swedish (A1)
+**Languages I speak:** Bosnian / Croatian / Serbian (Native) · English (B1) · German (B2) · Swedish (A1)
 
 <br/>
 
-## 🚀 Things I've Shipped
+## Things I've Shipped
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎧 TTStudy - Graduation Thesis
+### TTStudy - Graduation Thesis
 
 Accessible PDF-to-speech web app for visually impaired students. Adjustable reading speed, bookmarking, section navigation.
 `FastAPI` `Python` `Google Cloud TTS` `MySQL`
-🏆 Lighthouse 100/100 · WAVE 9.9/10 · SUS 100/100
+Lighthouse 100/100 · WAVE 9.9/10 · SUS 100/100
 
 </td>
 <td width="50%">
 
-### 💊 IBO & CO - Pharmacy System
+### IBO & CO - Pharmacy System
 
 Full-stack web app built and deployed for a real pharmacy in Sarajevo, with secure login/registration and automated ordering.
 `PHP` `MySQL` `JavaScript`
@@ -96,7 +96,7 @@ Full-stack web app built and deployed for a real pharmacy in Sarajevo, with secu
 <tr>
 <td width="50%">
 
-### 🏔️ Mostaria Apartments
+### Mostaria Apartments
 
 Multilingual vacation rental site (EN/BS/DE) with a custom language switcher, guest review carousel, and partner showcase.
 `HTML` `CSS` `JavaScript` `Bootstrap`
@@ -104,7 +104,7 @@ Multilingual vacation rental site (EN/BS/DE) with a custom language switcher, gu
 </td>
 <td width="50%">
 
-### 🔐 Secure Login & Registration System
+### Secure Login & Registration System
 
 Independently built a hardened auth backend from scratch - hashing, validation, session handling.
 `Node.js` `TypeScript` `Express.js` `MySQL`
@@ -114,7 +114,7 @@ Independently built a hardened auth backend from scratch - hashing, validation, 
 <tr>
 <td width="50%">
 
-### 🍽️ Serviqo - Restaurant System
+### Serviqo - Restaurant System
 
 Co-developed full SDLC for a restaurant platform: QR ordering, reservations, and a "call the waiter" feature.
 `Full SDLC` `Team Project`
@@ -122,7 +122,7 @@ Co-developed full SDLC for a restaurant platform: QR ordering, reservations, and
 </td>
 <td width="50%">
 
-### 🍕 Gric - Mobile Recommendation App
+### Gric - Mobile Recommendation App
 
 Native Android app with a dynamic restaurant recommendation engine based on user ratings.
 `Kotlin` `Jetpack Compose`
@@ -132,7 +132,7 @@ Native Android app with a dynamic restaurant recommendation engine based on user
 <tr>
 <td width="50%">
 
-### ⚙️ RISC-V CPU Model
+### RISC-V CPU Model
 
 Designed and tested a fully operational 32-bit RISC-V CPU with a working instruction set architecture.
 `RARS` `Logisim`
@@ -140,7 +140,7 @@ Designed and tested a fully operational 32-bit RISC-V CPU with a working instruc
 </td>
 <td width="50%">
 
-### 💻 ForkBomb 2.0
+### ForkBomb 2.0
 
 Custom Linux shell built in C - process management, system calls (`clone`, `execle`), I/O redirection with `dup`.
 `C` `Linux` `Ubuntu`
@@ -150,7 +150,7 @@ Custom Linux shell built in C - process management, system calls (`clone`, `exec
 <tr>
 <td width="50%">
 
-### 🧹 COLAK Hausmeister
+### COLAK Hausmeister
 
 Independently built and deployed a business site for a facility management company.
 `HTML` `CSS` `JavaScript`
@@ -158,7 +158,7 @@ Independently built and deployed a business site for a facility management compa
 </td>
 <td width="50%">
 
-### 🚗 Autopflege Rottweil
+### Autopflege Rottweil
 
 Independently built and deployed a responsive business site for a car detailing service.
 `HTML` `CSS` `JavaScript`
@@ -173,7 +173,7 @@ Independently built and deployed a responsive business site for a car detailing 
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -196,11 +196,11 @@ Independently built and deployed a responsive business site for a car detailing 
 
 <br/>
 
-## 🤝 Let's Work Together
+## Let's Work Together
 
 <div align="center">
 
-### 💼 I'm currently open to:
+### I'm currently open to:
 
 `Freelance web development` &nbsp;·&nbsp; `Internships & entry-level SWE roles` &nbsp;·&nbsp; `Web apps & MVPs` &nbsp;·&nbsp; `Interesting/innovative ideas`
 
@@ -219,7 +219,7 @@ Got a project, a role, or just a wild idea? I'd love to hear about it.
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+### Thanks for stopping by!
 
 If something here caught your eye, feel free to explore my pinned repos, drop a star, or just say hi.
 
