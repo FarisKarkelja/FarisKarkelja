@@ -54,6 +54,7 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 </div>
 
 **Languages I speak:** Bosnian / Croatian / Serbian (Native) · English (B1) · German (B2) · Swedish (A1)
+<br/>
 <sub>*CEFR levels based on completed courses & certificates</sub>
 
 <br/>
