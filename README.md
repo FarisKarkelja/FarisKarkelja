@@ -128,7 +128,7 @@ Independently built and deployed a business site for a German facility managemen
 ### Autopflege Rottweil
 Independently built and deployed a responsive business site for a German car detailing service.
 `HTML` `CSS` `JS` `Bootstrap`
-**[🔗 Live Demo](https://autopflegerottweil.de/)**
+**[Live Demo](https://autopflegerottweil.de/)**
 
 <div align="center">
   <br/>
