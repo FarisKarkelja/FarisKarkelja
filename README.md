@@ -64,7 +64,6 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 ### TTStudy - Graduation Thesis
 Accessible PDF-to-speech web app for visually impaired students. Adjustable reading speed, bookmarking, section navigation.
 `FastAPI` `Python` `Google Cloud TTS` `MySQL`
-**[Live Demo](#)**
 
 ---
 
@@ -85,35 +84,30 @@ Multilingual vacation rental site (EN/BS/DE) with a custom language switcher, gu
 ### Secure Login & Registration System
 Independently built a hardened auth backend from scratch - hashing, validation, 2FA, session handling.
 `Node.js` `TypeScript` `Express.js` `MySQL`
-**[View Repo](#)**
 
 ---
 
 ### Serviqo - Restaurant System
 Co-developed full SDLC for a restaurant platform: QR ordering, reservations, and a "call the waiter" feature.
 `Full SDLC` `Team Project`
-**[View Repo](#)**
 
 ---
 
 ### Gric - Restaurant Recommendation App
 Native Android app with a dynamic restaurant recommendation engine based on user ratings.
 `Kotlin` `Jetpack Compose`
-**[View Repo](#)**
 
 ---
 
 ### RISC-V CPU Model
 Co-designed and tested a fully operational 32-bit RISC-V CPU with a working instruction set architecture.
 `RARS` `Logisim`
-**[View Repo](#)**
 
 ---
 
 ### ForkBomb 2.0
 Custom Linux shell built in C - process management, system calls (`clone`, `execle`), I/O redirection with `dup`.
 `C` `Linux` `Ubuntu`
-**[View Repo](#)**
 
 ---
 
