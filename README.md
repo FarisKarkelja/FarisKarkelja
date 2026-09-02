@@ -61,73 +61,73 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 
 ## Things I've Shipped
 
-### 🎓 TTStudy — Graduation Thesis
+### TTStudy - Graduation Thesis
 Accessible PDF-to-speech web app for visually impaired students. Adjustable reading speed, bookmarking, section navigation.
 `FastAPI` `Python` `Google Cloud TTS` `MySQL`
-**[🔗 Live Demo](#)**
+**[Live Demo](#)**
 
 ---
 
-### 💊 IBO & CO — Pharmacy Management System
+### IBO & CO - Pharmacy Management System
 Full-stack web app built and deployed for pharmacies in Sarajevo, with secure login/registration and automated ordering.
 `PHP` `MySQL` `JavaScript`
-**[🔗 Live Demo](#)**
+**[Live Demo](https://apotekaiboco.ba/#home)**
 
 ---
 
-### 🏡 Mostaria Apartments
+### Mostaria Apartments
 Multilingual vacation rental site (EN/BS/DE) with a custom language switcher, guest review carousel, partner showcase and much more.
 `HTML` `CSS` `JavaScript` `Bootstrap`
-**[🔗 Live Demo](#)**
+**[Live Demo](https://apartmentsmostaria.ba/)**
 
 ---
 
-### 🔐 Secure Login & Registration System
-Independently built a hardened auth backend from scratch — hashing, validation, 2FA, session handling.
+### Secure Login & Registration System
+Independently built a hardened auth backend from scratch - hashing, validation, 2FA, session handling.
 `Node.js` `TypeScript` `Express.js` `MySQL`
-**[🔗 View Repo](#)**
+**[View Repo](#)**
 
 ---
 
-### 🍽️ Serviqo — Restaurant System
+### Serviqo - Restaurant System
 Co-developed full SDLC for a restaurant platform: QR ordering, reservations, and a "call the waiter" feature.
 `Full SDLC` `Team Project`
-**[🔗 View Repo](#)**
+**[View Repo](#)**
 
 ---
 
-### 📍 Gric — Restaurant Recommendation App
+### Gric - Restaurant Recommendation App
 Native Android app with a dynamic restaurant recommendation engine based on user ratings.
 `Kotlin` `Jetpack Compose`
-**[🔗 View Repo](#)**
+**[View Repo](#)**
 
 ---
 
-### 🖥️ RISC-V CPU Model
+### RISC-V CPU Model
 Co-designed and tested a fully operational 32-bit RISC-V CPU with a working instruction set architecture.
 `RARS` `Logisim`
-**[🔗 View Repo](#)**
+**[View Repo](#)**
 
 ---
 
-### 🐚 ForkBomb 2.0
-Custom Linux shell built in C — process management, system calls (`clone`, `execle`), I/O redirection with `dup`.
+### ForkBomb 2.0
+Custom Linux shell built in C - process management, system calls (`clone`, `execle`), I/O redirection with `dup`.
 `C` `Linux` `Ubuntu`
-**[🔗 View Repo](#)**
+**[View Repo](#)**
 
 ---
 
-### 🧹 COLAK Hausmeister
+### COLAK Hausmeister
 Independently built and deployed a business site for a German facility management company.
 `HTML` `CSS` `JavaScript`
-**[🔗 Live Demo](#)**
+**[Live Demo](https://hausmeistercolak.de/)**
 
 ---
 
-### 🚗 Autopflege Rottweil
+### Autopflege Rottweil
 Independently built and deployed a responsive business site for a German car detailing service.
 `HTML` `CSS` `JavaScript`
-**[🔗 Live Demo](#)**
+**[🔗 Live Demo](https://autopflegerottweil.de/)**
 
 <div align="center">
   <br/>
