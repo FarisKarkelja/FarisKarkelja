@@ -23,7 +23,7 @@ currently: MSc Software Engineering student @ International Burch University
 previously: BSc in Information Technology @ IBU and Erasmus+ exchange @ Mälardalen University, Sweden
 focus: Full-stack web development, accessibility-first products, secure backend systems
 freelance: Building websites & web apps for real clients remotely from Bosnia and Herzegovina
-looking_for: Freelance projects, internships, junior/entry-level SWE roles
+looking_for: Freelance projects, junior/entry-level SWE roles
 fun_fact: I also teach & compete in modern dance internationally 
 ```
 
@@ -70,13 +70,13 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 
 ## Things I've Shipped
 
-### TTStudy - Graduation Thesis
+### TTStudy
 Accessible PDF-to-speech web app for visually impaired students. Adjustable reading speed, bookmarking, section navigation.
 `FastAPI` `Python` `Google Cloud TTS` `MySQL`
 
 ---
 
-### IBO & CO - Pharmacy Management System
+### IBO & CO
 Full-stack web app built and deployed for pharmacies in Sarajevo, with secure login/registration and automated ordering.
 `PHP` `MySQL` `JavaScript`
 **[Live Demo](https://apotekaiboco.ba/#home)**
@@ -96,13 +96,13 @@ Independently built a hardened auth backend from scratch - hashing, validation, 
 
 ---
 
-### Serviqo - Restaurant System
+### Serviqo
 Co-developed full SDLC for a restaurant platform: QR ordering, reservations, and a "call the waiter" feature.
 `Full SDLC` `Team Project`
 
 ---
 
-### Gric - Restaurant Recommendation App
+### Gric
 Native Android app with a dynamic restaurant recommendation engine based on user ratings.
 `Kotlin` `Jetpack Compose`
 
@@ -168,7 +168,7 @@ Independently built and deployed a responsive business site for a German car det
 
 ### I'm currently open to:
 
-`Freelance web development` &nbsp;·&nbsp; `Internships & entry-level SWE roles` &nbsp;·&nbsp; `Web apps & MVPs` &nbsp;·&nbsp; `Interesting/innovative ideas`
+`Freelance web development` &nbsp;·&nbsp; `Junior/entry-level SWE roles` &nbsp;·&nbsp; `Web apps & MVPs` &nbsp;·&nbsp; `Interesting/innovative ideas`
 
 Got a project, a role, or just a wild idea? I'd love to hear about it.
 
