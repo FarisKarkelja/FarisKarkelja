@@ -149,11 +149,6 @@ Independently built and deployed a responsive business site for a German car det
 
 <img src="https://streak-stats.demolab.com/?user=FarisKarkelja&theme=tokyonight&hide_border=true&background=0d1117&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak Stats" />
 
-<br/>
-<br/>
-
-<img src="https://github-activity-graph.vercel.app/graph?username=FarisKarkelja&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=14b8a6&line=14b8a6&point=ffffff" width="100%" alt="GitHub Activity Graph" />
-
 </div>
 
 <br/>
