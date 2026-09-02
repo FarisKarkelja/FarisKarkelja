@@ -66,6 +66,7 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 
 <sub>*CEFR levels based on completed courses & certificates</sub>
 <br/>
+<br/>
 
 ## Things I've Shipped
 
