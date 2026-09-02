@@ -76,7 +76,7 @@ Lighthouse 100/100 · WAVE 9.9/10 · SUS 100/100
 
 ### IBO & CO - Pharmacy Management System
 
-Full-stack web app built and deployed for a real pharmacy in Sarajevo, with secure login/registration and automated ordering.
+Full-stack web app built and deployed for pharmacies in Sarajevo, with secure login/registration and automated ordering.
 `PHP` `MySQL` `JavaScript`
 
 </td>
@@ -86,7 +86,7 @@ Full-stack web app built and deployed for a real pharmacy in Sarajevo, with secu
 
 ### Mostaria Apartments
 
-Multilingual vacation rental site (EN/BS/DE) with a custom language switcher, guest review carousel, and partner showcase.
+Multilingual vacation rental site (EN/BS/DE) with a custom language switcher, guest review carousel, partner showcase and much more.
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
 </td>
@@ -94,7 +94,7 @@ Multilingual vacation rental site (EN/BS/DE) with a custom language switcher, gu
 
 ### Secure Login & Registration System
 
-Independently built a hardened auth backend from scratch - hashing, validation, session handling.
+Independently built a hardened auth backend from scratch - hashing, validation, 2FA, session handling.
 `Node.js` `TypeScript` `Express.js` `MySQL`
 
 </td>
@@ -122,7 +122,7 @@ Native Android app with a dynamic restaurant recommendation engine based on user
 
 ### RISC-V CPU Model
 
-Designed and tested a fully operational 32-bit RISC-V CPU with a working instruction set architecture.
+Co-designed and tested a fully operational 32-bit RISC-V CPU with a working instruction set architecture.
 `RARS` `Logisim`
 
 </td>
@@ -140,7 +140,7 @@ Custom Linux shell built in C - process management, system calls (`clone`, `exec
 
 ### COLAK Hausmeister
 
-Independently built and deployed a business site for a facility management company.
+Independently built and deployed a business site for a German facility management company.
 `HTML` `CSS` `JavaScript`
 
 </td>
@@ -148,7 +148,7 @@ Independently built and deployed a business site for a facility management compa
 
 ### Autopflege Rottweil
 
-Independently built and deployed a responsive business site for a car detailing service.
+Independently built and deployed a responsive business site for a German car detailing service.
 `HTML` `CSS` `JavaScript`
 
 </td>
