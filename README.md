@@ -44,7 +44,7 @@ fun_fact: I also teach & compete in modern dance internationally
 <br/>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -141,20 +141,23 @@ Independently built and deployed a responsive business site for a German car det
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarisKarkelja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&count_private=true&cache_seconds=86400" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisKarkelja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats-one-lac-30.vercel.app/api?username=FarisKarkelja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&count_private=true&cache_seconds=86400" alt="Faris Karkelja GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-one-lac-30.vercel.app/api/top-langs/?username=FarisKarkelja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 <br/>
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=FarisKarkelja&theme=tokyonight&hide_border=true&background=0d1117&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" />
-
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FarisKarkelja&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=14b8a6&line=14b8a6&point=ffffff" width="100%"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=FarisKarkelja&theme=tokyonight&hide_border=true&background=0d1117&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak Stats" />
 
 <br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=FarisKarkelja&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FarisKarkelja&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=14b8a6&line=14b8a6&point=ffffff" width="100%" alt="GitHub Activity Graph" />
+
+<br/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=FarisKarkelja&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Profile Trophies" />
 
 </div>
 
