@@ -69,7 +69,6 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 
 Accessible PDF-to-speech web app for visually impaired students. Adjustable reading speed, bookmarking, section navigation.
 `FastAPI` `Python` `Google Cloud TTS` `MySQL`
-Lighthouse 100/100 · WAVE 9.9/10 · SUS 100/100
 
 </td>
 <td width="50%">
