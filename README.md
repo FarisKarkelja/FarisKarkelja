@@ -70,39 +70,39 @@ fun_fact: I also teach & compete in modern dance internationally
 
 ### TTStudy
 Accessible PDF-to-speech web app for visually impaired students. Adjustable reading speed, bookmarking, section navigation.
-`FastAPI` `Python` `Google Cloud TTS` `MySQL`
+`HTML` `CSS` `JS` `FastAPI` `Python` `Google Cloud TTS` `MySQL`
 
 ---
 
 ### IBO & CO
 Full-stack web app built and deployed for pharmacies in Sarajevo, with secure login/registration and automated ordering.
-`PHP` `MySQL` `JavaScript`
+`HTML` `CSS` `JS` `PHP` `MySQL`
 **[Live Demo](https://apotekaiboco.ba/#home)**
 
 ---
 
 ### Mostaria Apartments
 Multilingual vacation rental site (EN/BS/DE) with a custom language switcher, guest review carousel, partner showcase and much more.
-`HTML` `CSS` `JavaScript` `Bootstrap`
+`HTML` `CSS` `JS` `Bootstrap`
 **[Live Demo](https://apartmentsmostaria.ba/)**
 
 ---
 
 ### Secure Login & Registration System
 Independently built a hardened auth backend from scratch - hashing, validation, 2FA, session handling.
-`Node.js` `TypeScript` `Express.js` `MySQL`
+`HTML` `CSS` `JS` `Node.js` `TypeScript` `Express.js` `MySQL`
 
 ---
 
 ### Serviqo
 Co-developed full SDLC for a restaurant platform: QR ordering, reservations, and a "call the waiter" feature.
-`Full SDLC` `Team Project`
+`HTML` `CSS` `JS` `Vite` `MySQL`
 
 ---
 
 ### Gric
 Native Android app with a dynamic restaurant recommendation engine based on user ratings.
-`Kotlin` `Jetpack Compose`
+`Kotlin` `Jetpack Compose` `SQLite`
 
 ---
 
@@ -120,14 +120,14 @@ Custom Linux shell built in C - process management, system calls (`clone`, `exec
 
 ### COLAK Hausmeister
 Independently built and deployed a business site for a German facility management company.
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JS` `Bootstrap`
 **[Live Demo](https://hausmeistercolak.de/)**
 
 ---
 
 ### Autopflege Rottweil
 Independently built and deployed a responsive business site for a German car detailing service.
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JS` `Bootstrap`
 **[🔗 Live Demo](https://autopflegerottweil.de/)**
 
 <div align="center">
