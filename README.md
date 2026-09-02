@@ -175,8 +175,4 @@ Got a project, a role, or just a wild idea? I'd love to hear about it.
 
 If something here caught your eye, feel free to explore my pinned repos, drop a star, or just say hi.
 
-<img src="https://komarev.com/ghpvc/?username=FarisKarkelja&label=Profile%20Views&color=14b8a6&style=for-the-badge" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=100&section=footer" width="100%"/>
-
 </div>
