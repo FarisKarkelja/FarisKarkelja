@@ -20,14 +20,14 @@
 name: Faris Karkelja
 location: Sarajevo, Bosnia and Herzegovina
 currently: MSc Software Engineering student @ International Burch University
-previously: BSc Information Technology @ IBU and Erasmus+ exchange @ Mälardalen University, Sweden
+previously: BSc in Information Technology @ IBU and Erasmus+ exchange @ Mälardalen University, Sweden
 focus: Full-stack web development, accessibility-first products, secure backend systems
 freelance: Building websites & web apps for real clients remotely from Bosnia and Herzegovina
 looking_for: Freelance projects, internships, junior/entry-level SWE roles
 fun_fact: I also teach & compete in modern dance internationally 
 ```
 
-I'm a computer science student who genuinely likes turning ideas into shipped, working products - from a pharmacy's ordering system to a text-to-speech app for visually impaired students. I care about accessibility, clean UX, and code that actually goes to production, not just a grade.
+I'm a computer science student who genuinely likes turning ideas into shipped, working products - from a pharmacy's ordering system to a text-to-speech app for visually impaired students. I care about accessibility, clean UX, and code that actually goes to production.
 
 <br/>
 
@@ -54,6 +54,7 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 </div>
 
 **Languages I speak:** Bosnian / Croatian / Serbian (Native) · English (B1) · German (B2) · Swedish (A1)
+<sub>*CEFR levels based on completed courses & certificates</sub>
 
 <br/>
 
@@ -72,7 +73,7 @@ Lighthouse 100/100 · WAVE 9.9/10 · SUS 100/100
 </td>
 <td width="50%">
 
-### IBO & CO - Pharmacy System
+### IBO & CO - Pharmacy Management System
 
 Full-stack web app built and deployed for a real pharmacy in Sarajevo, with secure login/registration and automated ordering.
 `PHP` `MySQL` `JavaScript`
@@ -108,7 +109,7 @@ Co-developed full SDLC for a restaurant platform: QR ordering, reservations, and
 </td>
 <td width="50%">
 
-### Gric - Mobile Recommendation App
+### Gric - Restaurant Recommendation App
 
 Native Android app with a dynamic restaurant recommendation engine based on user ratings.
 `Kotlin` `Jetpack Compose`
