@@ -31,15 +31,6 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 
 <br/>
 
-| Language | Level | Notes |
-|---|---|---|
-| Bosnian / Croatian / Serbian | Native | — |
-| English | B1 | CEFR, based on coursework |
-| German | B2 | CEFR, certified |
-| Swedish | A1 | CEFR, based on coursework |
-
-<sub>*CEFR levels based on completed courses & certificates</sub>
-
 ## Tech I Work With
 
 <div align="center">
@@ -62,6 +53,16 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 
 </div>
 
+<br/>
+
+| Language | Level | Notes |
+|---|---|---|
+| Bosnian / Croatian / Serbian | Native | — |
+| English | B1 | CEFR, based on coursework |
+| German | B2 | CEFR, certified |
+| Swedish | A1 | CEFR, based on coursework |
+
+<sub>*CEFR levels based on completed courses & certificates</sub>
 <br/>
 
 ## Things I've Shipped
