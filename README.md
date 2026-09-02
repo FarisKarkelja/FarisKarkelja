@@ -147,17 +147,12 @@ Independently built and deployed a responsive business site for a German car det
 <br/>
 <br/>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=FarisKarkelja&theme=tokyonight&hide_border=true&background=0d1117&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&v=2" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=FarisKarkelja&theme=tokyonight&hide_border=true&background=0d1117&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak Stats" />
 
 <br/>
 <br/>
 
-<img src="https://github-activity-graph.vercel.app/graph?username=FarisKarkelja&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=14b8a6&line=14b8a6&point=ffffff&v=2" width="100%" alt="GitHub Activity Graph" />
-
-<br/>
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=FarisKarkelja&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&v=2" alt="GitHub Profile Trophies" />
+<img src="https://github-activity-graph.vercel.app/graph?username=FarisKarkelja&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=14b8a6&line=14b8a6&point=ffffff" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
