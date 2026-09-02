@@ -31,11 +31,14 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 
 <br/>
 
-**Languages I speak:** Bosnian / Croatian / Serbian (Native) · English (B1) · German (B2) · Swedish (A1)
-<br/>
+| Language | Level | Notes |
+|---|---|---|
+| Bosnian / Croatian / Serbian | Native | — |
+| English | B1 | CEFR, based on coursework |
+| German | B2 | CEFR, certified |
+| Swedish | A1 | CEFR, based on coursework |
+
 <sub>*CEFR levels based on completed courses & certificates</sub>
-<br/>
-<br/>
 
 ## Tech I Work With
 
