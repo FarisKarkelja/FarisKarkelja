@@ -27,8 +27,6 @@ looking_for: Freelance projects, junior/entry-level SWE roles
 fun_fact: I also teach & compete in modern dance internationally 
 ```
 
-I'm a computer science student who genuinely likes turning ideas into shipped, working products - from a pharmacy's ordering system to a text-to-speech app for visually impaired students. I care about accessibility, clean UX, and code that actually goes to production.
-
 <br/>
 
 ## Tech I Work With
