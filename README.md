@@ -55,6 +55,8 @@ I'm a computer science student who genuinely likes turning ideas into shipped, w
 
 <br/>
 
+## Languages I speak
+
 | Language | Level | Notes |
 |---|---|---|
 | Bosnian / Croatian / Serbian | Native | — |
