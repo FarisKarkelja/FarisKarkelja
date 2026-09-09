@@ -29,7 +29,7 @@ fun_fact: I also teach & compete in modern dance internationally
 
 <br/>
 
-## Tech I Work With
+## Tech I Worked With
 
 <div align="center">
 
