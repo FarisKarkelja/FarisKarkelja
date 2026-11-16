@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Faris Karkelja - software engineer building web apps, clean APIs and accessible tools" />
+<img src="assets/banner.svg" width="100%" alt="Faris Karkelja - software engineer building web apps, clean APIs and accessible tools" />
 
 <br/>
 
