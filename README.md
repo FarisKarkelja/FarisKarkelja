@@ -92,7 +92,7 @@ Hand-coded, hosted and maintained for businesses in Germany and Bosnia and Herze
 
 <br/>
 
-## Toolkit
+## Tech I worked with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,php,html,css,bootstrap,astro,threejs,vite&theme=dark" alt="Web" /><br/>
