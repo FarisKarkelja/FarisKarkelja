@@ -1,192 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=220&section=header&text=Hi!%20I'm%20Faris%20Karkelja&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSc%20in%20IT%20%7C%20Freelance%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=650&lines=Software+Engineering+MSc+Student+%40+IBU;Full-Stack+Web+Developer;Building+accessible%2C+real-world+products;Several+client+websites+shipped;Always+down+to+build+something+cool" alt="Typing SVG" />
-</a>
+<img src="assets/header.svg" width="100%" alt="Faris Karkelja - Software engineer building web apps, clean APIs and accessible tools" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/fariskarkelja/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a> <a href="mailto:faris.karkelja1803@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://fariskarkelja.github.io/"><img src="https://img.shields.io/badge/-Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://fariskarkelja.github.io/assets/pdf/Faris_Karkelja_CV_en.pdf"><img src="https://img.shields.io/badge/-Resume-0f172a?style=for-the-badge&logo=readdotcv&logoColor=white" /></a> <a href="https://github.com/FarisKarkelja"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://fariskarkelja.github.io/"><img src="https://img.shields.io/badge/Portfolio-130d10?style=for-the-badge&logo=astro&logoColor=c8a061" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/fariskarkelja/"><img src="https://img.shields.io/badge/LinkedIn-130d10?style=for-the-badge&logo=linkedin&logoColor=c8a061" alt="LinkedIn" /></a>
+<a href="https://fariskarkelja.github.io/cv/Faris_Karkelja_CV_en.pdf"><img src="https://img.shields.io/badge/CV-130d10?style=for-the-badge&logo=readdotcv&logoColor=c8a061" alt="CV" /></a>
+<a href="https://fariskarkelja.github.io/#contact"><img src="https://img.shields.io/badge/Contact-c8a061?style=for-the-badge&logo=maildotru&logoColor=130d10" alt="Contact" /></a>
 
 </div>
 
 <br/>
 
-## About Me
-
-```yaml
-name: Faris Karkelja
-location: Sarajevo, Bosnia and Herzegovina
-currently: MSc Software Engineering student @ International Burch University
-previously: BSc in Information Technology @ IBU and Erasmus+ exchange @ Mälardalen University, Sweden
-focus: Full-stack web development, accessibility-first products, secure backend systems
-freelance: Building websites & web apps for real clients remotely from Bosnia and Herzegovina
-looking_for: Freelance projects, junior/entry-level SWE roles
-fun_fact: I also teach & compete in modern dance internationally 
-```
+<img src="assets/terminal.svg" width="100%" alt="Terminal: whoami - Faris Karkelja, software engineer and freelance web developer from Sarajevo. MSc Software Engineering at International Burch University. Projects: TTStudy, IBO & CO 2.0, ds-labs, Secure Auth, Gric." />
 
 <br/>
 
-## Tech I Worked With
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [TTStudy](https://fariskarkelja.github.io/work/ttstudy/)
+Text-to-speech study aid for visually impaired students, tested with visually impaired users. My bachelor's thesis.
+
+`Python` `FastAPI` `MySQL` `JavaScript` `Google Cloud TTS`
+
+[Case study](https://fariskarkelja.github.io/work/ttstudy/)
+
+</td>
+<td width="50%" valign="top">
+
+### [IBO & CO 2.0](https://fariskarkelja.github.io/work/ibo-co-2/)
+Full-stack rebuild of a live pharmacy web shop I first built for a Sarajevo pharmacy.
+
+`React` `TypeScript` `Node.js` `Express` `MySQL` `Vitest`
+
+[Case study](https://fariskarkelja.github.io/work/ibo-co-2/) - [Code](https://github.com/FarisKarkelja/ibo-co-pharmacy)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ds-labs](https://fariskarkelja.github.io/work/ds-labs/)
+Data structures and algorithms in modern C++: left-leaning red-black tree, dual-pivot quicksort, templates and the Rule of Five.
+
+`C++17` `Templates` `STL`
+
+[Case study](https://fariskarkelja.github.io/work/ds-labs/) - [Code](https://github.com/FarisKarkelja/ds-labs)
+
+</td>
+<td width="50%" valign="top">
+
+### [Secure Auth Platform](https://fariskarkelja.github.io/work/secure-auth/)
+Hardened authentication system with 2FA, OAuth, breached-password checks and a production deployment.
+
+`TypeScript` `Node.js` `Express` `MySQL` `JWT`
+
+[Case study](https://fariskarkelja.github.io/work/secure-auth/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Gric](https://fariskarkelja.github.io/work/gric/)
+Restaurant and recipe recommendation app for Android, built over a full semester.
+
+`Kotlin` `Jetpack Compose` `MVVM` `Room` `Firebase Auth`
+
+[Case study](https://fariskarkelja.github.io/work/gric/) - [Code](https://github.com/FarisKarkelja/mobile-programming)
+
+</td>
+<td width="50%" valign="top">
+
+### Client websites
+Hand-coded, hosted and maintained for businesses in Germany and Bosnia and Herzegovina.
+
+`HTML` `CSS` `JavaScript` `Bootstrap` `PHP`
+
+[hausmeistercolak.de](https://hausmeistercolak.de/) - [autopflegerottweil.de](https://autopflegerottweil.de/) - [apartmentsmostaria.ba](https://apartmentsmostaria.ba/) - [apotekaiboco.ba](https://apotekaiboco.ba/)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://fariskarkelja.github.io/work/">All projects on my portfolio</a></p>
+
+<br/>
+
+## Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,php,html,css,bootstrap,astro,threejs,vite&theme=dark" alt="Web" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,c,java,kotlin,androidstudio,mysql,postgres,mongodb,redis,firebase&theme=dark" alt="Languages, mobile and data" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,figma,postman,selenium&theme=dark" alt="Tools" />
+</p>
+
+<br/>
+
+## Languages
+
+| Bosnian / Croatian / Serbian | English | German | Swedish |
+|:---:|:---:|:---:|:---:|
+| Native | Fluent | B2 (TestDaF) | A1 |
+
+<br/>
+
+## Activity
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-<br/>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flight PHP](https://img.shields.io/badge/Flight_PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL_DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<br/>
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-<br/>
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<img height="170" src="https://github-readme-stats-one-lac-30.vercel.app/api?username=FarisKarkelja&show_icons=true&hide_border=true&count_private=true&bg_color=130d10&title_color=c8a061&icon_color=ffb54a&text_color=efe6d8&cache_seconds=86400" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-one-lac-30.vercel.app/api/top-langs/?username=FarisKarkelja&layout=compact&langs_count=8&hide_border=true&bg_color=130d10&title_color=c8a061&text_color=efe6d8&cache_seconds=86400" alt="Top languages" />
 
-</div>
-
-<br/>
-
-## Languages I speak
-
-| Language | Level |
-|---|---|
-| Bosnian / Croatian / Serbian | Native |
-| English | B1 |
-| German | B2/C1 |
-| Swedish | A1 |
-
-<sub>*CEFR levels based on completed courses & certificates</sub>
-<br/>
-<br/>
-
-## Things I've Shipped
-
-### TTStudy
-Accessible PDF-to-speech web app for visually impaired students. Adjustable reading speed, bookmarking, section navigation.
-`HTML` `CSS` `JS` `FastAPI` `Python` `Google Cloud TTS` `MySQL`
-
----
-
-### IBO & CO
-Full-stack web app built and deployed for pharmacies in Sarajevo, with secure login/registration and automated ordering.
-`HTML` `CSS` `JS` `PHP` `MySQL`
-**[Live Demo](https://apotekaiboco.ba/#home)**
-
----
-
-### Mostaria Apartments
-Multilingual vacation rental site (EN/BS/DE) with a custom language switcher, guest review carousel, partner showcase and much more.
-`HTML` `CSS` `JS` `Bootstrap`
-**[Live Demo](https://apartmentsmostaria.ba/)**
-
----
-
-### Secure Login & Registration System
-Independently built a hardened auth backend from scratch - hashing, validation, 2FA, session handling.
-`HTML` `CSS` `JS` `Node.js` `TypeScript` `Express.js` `MySQL`
-
----
-
-### Serviqo
-Co-developed full SDLC for a restaurant platform: QR ordering, reservations, and a "call the waiter" feature.
-`HTML` `CSS` `JS` `Vite` `MySQL`
-
----
-
-### Gric
-Native Android app with a dynamic restaurant recommendation engine based on user ratings.
-`Kotlin` `Jetpack Compose` `SQLite`
-
----
-
-### RISC-V CPU Model
-Co-designed and tested a fully operational 32-bit RISC-V CPU with a working instruction set architecture.
-`RARS` `Logisim`
-
----
-
-### ForkBomb 2.0
-Custom Linux shell built in C - process management, system calls (`clone`, `execle`), I/O redirection with `dup`.
-`C` `Linux` `Ubuntu`
-
----
-
-### COLAK Hausmeister
-Independently built and deployed a business site for a German facility management company.
-`HTML` `CSS` `JS` `Bootstrap`
-**[Live Demo](https://hausmeistercolak.de/)**
-
----
-
-### Autopflege Rottweil
-Independently built and deployed a responsive business site for a German car detailing service.
-`HTML` `CSS` `JS` `Bootstrap`
-**[Live Demo](https://autopflegerottweil.de/)**
-
-<div align="center">
-  <br/>
-  <sub>...plus 15+ more academic and independent projects</sub>
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-one-lac-30.vercel.app/api?username=FarisKarkelja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&count_private=true&cache_seconds=86400" alt="Faris Karkelja GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-one-lac-30.vercel.app/api/top-langs/?username=FarisKarkelja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-
-<br/>
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=FarisKarkelja&theme=tokyonight&hide_border=true&background=0d1117&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak Stats" />
-
-</div>
-
-<br/>
-
-## Let's Work Together
-
-<div align="center">
-
-### I'm currently open to:
-
-`Freelance web development` &nbsp;·&nbsp; `Junior/entry-level SWE roles` &nbsp;·&nbsp; `Web apps & MVPs` &nbsp;·&nbsp; `Interesting/innovative ideas`
-
-Got a project, a role, or just a wild idea? I'd love to hear about it.
-
-<a href="mailto:faris.karkelja1803@gmail.com"><img src="https://img.shields.io/badge/📩_Hire_Me-14b8a6?style=for-the-badge&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/fariskarkelja/"><img src="https://img.shields.io/badge/💬_Get_In_Touch-0A66C2?style=for-the-badge&logoColor=white" /></a>
+<img src="https://streak-stats.demolab.com/?user=FarisKarkelja&hide_border=true&background=130d10&ring=c8a061&fire=ffb54a&currStreakLabel=c8a061&currStreakNum=efe6d8&sideNums=efe6d8&sideLabels=b9ada0&dates=8f8378&stroke=3a2c25" alt="GitHub streak" />
 
 </div>
 
@@ -194,8 +125,7 @@ Got a project, a role, or just a wild idea? I'd love to hear about it.
 
 <div align="center">
 
-### Thanks for stopping by!
-
-If something here caught your eye, feel free to explore my pinned repos, drop a star, or just say hi.
+Open to junior and entry-level software engineering roles, internships and freelance projects.<br/>
+The fastest way to reach me is the <a href="https://fariskarkelja.github.io/#contact">contact form on my portfolio</a> or <a href="https://www.linkedin.com/in/fariskarkelja/">LinkedIn</a>.
 
 </div>
