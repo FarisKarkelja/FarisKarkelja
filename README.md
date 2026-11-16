@@ -2,6 +2,8 @@
 
 <img src="assets/header.svg" width="100%" alt="Faris Karkelja - software engineer building web apps, clean APIs and accessible tools" />
 
+<br/>
+
 <a href="https://fariskarkelja.github.io/"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/fariskarkelja/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;
 <a href="https://fariskarkelja.github.io/cv/Faris_Karkelja_CV_en.pdf"><img src="assets/btn-cv.svg" height="40" alt="CV" /></a>&nbsp;
