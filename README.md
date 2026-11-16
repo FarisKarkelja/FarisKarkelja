@@ -33,7 +33,7 @@
 
 <br/>
 
-## Toolkit
+## Tech I work/ed with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,php,html,css,bootstrap,astro,threejs,vite&theme=dark" alt="Web" /><br/>
