@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Faris Karkelja - MSc Software Engineering student at IBU, Sarajevo" />
+<img src="assets/header-banner.svg" width="100%" alt="Faris Karkelja - MSc Software Engineering student at IBU, Sarajevo" />
 
 <br/>
 
