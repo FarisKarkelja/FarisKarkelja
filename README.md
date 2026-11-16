@@ -35,7 +35,14 @@
 
 ## Tech I work/ed with
 
-<img src="assets/toolkit.svg" width="100%" alt="Languages: Python, Java, C++, SQL, TypeScript, JavaScript. Frontend: HTML, CSS, Bootstrap, React. Backend and data: PHP, Node.js, REST APIs, MySQL, PL/SQL. Testing: JUnit, Selenium, Postman, Playwright, pytest. Tools: Git, GitHub, Linux, XAMPP, Claude, VS Code, Claude Code, Figma, and more." />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,kotlin&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,php,nodejs,express,fastapi&theme=dark" alt="Web" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,docker,gcp,azure&theme=dark" alt="Data and cloud" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,ubuntu,vscode,figma,postman,selenium,androidstudio&theme=dark" alt="Tools" />
+</p>
+
+<p align="center"><sub>Also: Oracle DB and APEX, PL/SQL, REST APIs, JUnit, Playwright, pytest, Jetpack Compose, Claude Code</sub></p>
 
 <br/>
 
