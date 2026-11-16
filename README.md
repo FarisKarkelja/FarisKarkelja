@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Faris Karkelja - software engineer building web apps, clean APIs and accessible tools" />
+<img src="assets/banner.svg" width="100%" alt="Faris Karkelja - MSc Software Engineering student at IBU, Sarajevo" />
 
-<br/>
+<br/><br/>
 
 <a href="https://fariskarkelja.github.io/"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/fariskarkelja/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;
@@ -35,11 +35,7 @@
 
 ## Tech I work/ed with
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,php,html,css,bootstrap,astro,threejs,vite&theme=dark" alt="Web" /><br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,c,java,kotlin,androidstudio,mysql,postgres,mongodb,redis,firebase&theme=dark" alt="Languages, mobile and data" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,figma,postman,selenium&theme=dark" alt="Tools" />
-</p>
+<img src="assets/toolkit.svg" width="100%" alt="Languages: Python, Java, C++, SQL, TypeScript, JavaScript. Frontend: HTML, CSS, Bootstrap, React. Backend and data: PHP, Node.js, REST APIs, MySQL, PL/SQL. Testing: JUnit, Selenium, Postman, Playwright, pytest. Tools: Git, GitHub, Linux, XAMPP, Claude, VS Code, Claude Code, Figma, and more." />
 
 <br/>
 
