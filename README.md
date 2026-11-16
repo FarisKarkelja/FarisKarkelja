@@ -38,8 +38,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,kotlin&theme=dark" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,php,nodejs,express,fastapi&theme=dark" alt="Web" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,docker,gcp,azure&theme=dark" alt="Data and cloud" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,ubuntu,vscode,figma,postman,selenium,androidstudio&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,docker,gcp,azure,vite,astro&theme=dark" alt="Data, cloud and build" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,ubuntu,vscode,clion,figma,postman,selenium,androidstudio&theme=dark" alt="Tools" />
 </p>
 
 <br/>
