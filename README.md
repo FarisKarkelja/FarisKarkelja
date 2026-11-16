@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Faris Karkelja - MSc Software Engineering student at IBU, Sarajevo" />
 
-<br/><br/>
+<br/>
 
 <a href="https://fariskarkelja.github.io/"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/fariskarkelja/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;
