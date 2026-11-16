@@ -42,8 +42,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,ubuntu,vscode,figma,postman,selenium,androidstudio&theme=dark" alt="Tools" />
 </p>
 
-<p align="center"><sub>Also: Oracle DB and APEX, PL/SQL, REST APIs, JUnit, Playwright, pytest, Jetpack Compose, Claude Code</sub></p>
-
 <br/>
 
 ## Languages
